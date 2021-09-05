@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Particles.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was done  with particles.js
+
+i used particls.js along with react js
+
+
+
+
+
+
 
 ## Available Scripts
 
